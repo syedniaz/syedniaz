@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://syedniaz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://syedniaz.github.io/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/syed-niaz-mohtasim-2b1b09218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Syed%20Niaz%20Mohtasim-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.facebook.com/syed.niazmohtasim/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Syed%20Niaz%20Mohtasim-blue?style=flat-square&logo=facebook"></a>
 <a href="mailto:snm051110@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snm051110@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
