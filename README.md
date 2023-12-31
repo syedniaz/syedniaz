@@ -30,10 +30,14 @@
 
 <br/>
 
-<a href="https://github.com/syedniaz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedniaz&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedniaz&theme=buefy&layout=compact" />
-</a>
+<p align = "center"><img width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedniaz&show_icons=true&locale=en&layout=compact" alt="syedniaz" /></p>
+
+<p align = "center">&nbsp;<img width = "50%" src="https://github-readme-stats.vercel.app/api?username=syedniaz&show_icons=true&locale=en" alt="syedniaz" /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=syedniaz" alt="GitHub Streak">
+  </a>
+</p>
 
 <br/>
 
