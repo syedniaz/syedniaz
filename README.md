@@ -49,7 +49,3 @@
   <a href="https://www.facebook.com/syed.niazmohtasim/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Syed%20Niaz%20Mohtasim-blue?style=flat-square&logo=facebook" target="_blank></a>
   <a href="mailto:snm051110@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snm051110@gmail.com-blue?style=flat-square&logo=gmail" target="_blank></a>
 </p>
-
-<br>
-
-⭐️ From [syedniaz](https://github.com/syedniaz)
