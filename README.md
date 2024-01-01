@@ -32,7 +32,6 @@
 
 <p align = "center"><img width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedniaz&show_icons=true&locale=en&layout=compact" alt="syedniaz" /></p>
 
-<p align = "center">&nbsp;<img width = "50%" src="https://github-readme-stats.vercel.app/api?username=syedniaz&show_icons=true&locale=en" alt="syedniaz" /></p>
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=syedniaz" alt="GitHub Streak">
@@ -43,7 +42,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
   <a href="https://syedniaz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://syedniaz.github.io/-blue?style=flat-square&logo=google-chrome" target="_blank></a>
   <a href="https://www.linkedin.com/in/syed-niaz-mohtasim-2b1b09218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Syed%20Niaz%20Mohtasim-blue?style=flat-square&logo=linkedin" target="_blank></a>
   <a href="https://www.facebook.com/syed.niazmohtasim/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Syed%20Niaz%20Mohtasim-blue?style=flat-square&logo=facebook" target="_blank></a>
