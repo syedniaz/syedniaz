@@ -1,4 +1,4 @@
-<h3> Hey there! I'm Syed Niaz Mohtasim
+<h3> Hey there! I'm Syed Niaz Mohtasim </h3>
 
 # 👨🏻‍💻 &nbsp;About Me 
 
